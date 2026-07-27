@@ -155,6 +155,10 @@ This project was completed as part of the **Quantium Data Analytics Job Simulati
 - Experimentation and uplift testing
 - Analytics and commercial application
 
+<a href="./Certificate.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Verified_Certificate-PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="View Certificate" />
+</a>
+
 ---
 
 ## 👤 Author
