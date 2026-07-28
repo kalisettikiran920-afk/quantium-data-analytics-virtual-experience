@@ -257,12 +257,12 @@ After cleaning and feature engineering, the two datasets were merged on `loyalty
 ## 📂 Files in This Task
 
 | File | Description |
-|---|---|
-| [`Task_1_Retail_Strategy_and_Analytics.ipynb`](../Jupyter%20Notebooks/Task_1_Retail_Strategy_and_Analytics.ipynb) | Full Python notebook with all code, outputs, and visualizations |
-| [`Task_1_Retail_Strategy_and_Analytics.pdf`](../PDF%20files/Task_1_Retail_Strategy_and_Analytics.pdf) | PDF export of the completed notebook |
-| [`QVI_transaction_data.xlsx`](../Raw%20Datasets/QVI_transaction_data.xlsx) | Raw transactions dataset (input) |
-| [`QVI_purchase_behaviour.csv`](../Raw%20Datasets/QVI_purchase_behaviour.csv) | Raw customer loyalty dataset (input) |
-| [`QVI_data.csv`](../Raw%20Datasets/QVI_data.csv) | Merged & cleaned analytical dataset (output) |
+| ----- | ----- |
+| [`Task_1_Retail_Strategy_and_Analytics.ipynb`](Data%20preparation%20&%20customer%20analytics%20(Python)/Task_1_Retail_Strategy_and_Analytics.ipynb) | Full Python notebook with all code, outputs, and visualizations |
+| [`Task_1_Retail_Strategy_and_Analytics.pdf`](Data%20preparation%20&%20customer%20analytics%20(Python)/Task_1_Retail_Strategy_and_Analytics.pdf) | PDF export of the completed notebook |
+| [`QVI_transaction_data.xlsx`](Raw%20Datasets/QVI_transaction_data.xlsx) | Raw transactions dataset (input) |
+| [`QVI_purchase_behaviour.csv`](Raw%20Datasets/QVI_purchase_behaviour.csv) | Raw customer loyalty dataset (input) |
+| [`QVI_data.csv`](Raw%20Datasets/QVI_data.csv) | Merged & cleaned analytical dataset (output) |
 
 ---
 
