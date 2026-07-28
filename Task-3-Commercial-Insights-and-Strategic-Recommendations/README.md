@@ -261,10 +261,10 @@ Structured as a three-horizon action plan:
 ## 📂 Files in This Task
 
 | File | Description |
-|---|---|
-| [`Task_3_Quantium_Chip_Category_Strategic_Review.pdf`](../PDF%20files/Task_3_Quantium_Chip_Category_Strategic_Review.pdf) | Full client-ready strategic presentation (Pyramid Principle format) |
-| [`All_3_Tasks_Screenshots.pdf`](../PDF%20files/All_3_Tasks_Screenshots.pdf) | Screenshot compilation of all task outputs across the full project |
-| [`Certificate.pdf`](../Certificate.pdf) | Quantium × Forage Job Simulation completion certificate |
+| ----- | ----- |
+| [`Task_3_Quantium_Chip_Category_Strategic_Review.pdf`](Pyramid%20Principle%20client%20presentation/Task_3_Quantium_Chip_Category_Strategic_Review.pdf) | Full client-ready strategic presentation (Pyramid Principle format) |
+| [`All_3_Tasks_Screenshots.pdf`](Pyramid%20Principle%20client%20presentation/All_3_Tasks_Screenshots.pdf) | Screenshot compilation of all task outputs across the full project |
+| [`Certificate.pdf`](Pyramid%20Principle%20client%20presentation/Certificate.pdf) | Quantium × Forage Job Simulation completion certificate |
 
 ---
 
