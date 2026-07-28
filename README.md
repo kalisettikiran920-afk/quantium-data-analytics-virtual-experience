@@ -141,7 +141,7 @@ flowchart LR
 | **Task 1** | **Task 2** | **Task 3** |
 | Customer Behaviour Analytics | Experimentation & Uplift Testing | Commercial Insights & Recommendations |
 | Data cleaning, feature engineering, and customer/brand segmentation | Control store matching and statistical trial evaluation | Pyramid-Principle strategic report for the Category Manager |
-| [**→ View Task 1**](./Task-1-Customer-Behaviour-Analytics) | [**→ View Task 2**](./Task-2-Experimentation-and-Uplift-Testing) | [**→ View Task 3**](./Task-3-Commercial-Insights-and-Strategic-Recommendations) |
+| [**→ View Task 1**](./Task-1-Customer-Behaviour-Analytics) | [**→ View Task 2**](./Task-2-Experimentation-and-Uplift-Testing) | [**→ View Task 3**](./Task 3: Commercial Insights & Strategic Recommendations) |
 
 </div>
 
