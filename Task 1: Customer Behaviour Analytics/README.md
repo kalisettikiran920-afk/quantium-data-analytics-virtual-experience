@@ -270,7 +270,7 @@ After cleaning and feature engineering, the two datasets were merged on `loyalty
 
 | ← Previous | Home | Next → |
 |:---:|:---:|:---:|
-| — | [Main Project README](../README.md) | [Task 2 — Experimentation & Uplift Testing](../Task-2-Experimentation-and-Uplift-Testing) |
+| — | [Main Project README](../README.md) | [Task 2 — Experimentation & Uplift Testing](../Task-2-Experimentation-and-Uplift-Testing/README.md) |
 
 ---
 
