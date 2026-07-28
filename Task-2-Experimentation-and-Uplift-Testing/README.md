@@ -285,10 +285,10 @@ A `plot_trial_comparison()` function generated **side-by-side bar charts** for e
 ## 📂 Files in This Task
 
 | File | Description |
-|---|---|
-| [`Task_2_Experimentation_and_Uplift_Testing.ipynb`](../Jupyter%20Notebooks/Task_2_Experimentation_and_Uplift_Testing.ipynb) | Full Python notebook with all code, charts, and uplift calculations |
-| [`Task_2_Experimentation_and_Uplift_Testing.pdf`](../PDF%20files/Task_2_Experimentation_and_Uplift_Testing.pdf) | PDF export of the completed notebook |
-| [`QVI_data.csv`](../Raw%20Datasets/QVI_data.csv) | Input dataset (merged & cleaned output from Task 1) |
+| ----- | ----- |
+| [`Task_2_Experimentation_and_Uplift_Testing.ipynb`](Experimentation%20%26%20Uplift%20Testing%20%28Python%29/Task_2_Experimentation_and_Uplift_Testing.ipynb) | Full Python notebook with all code, charts, and uplift calculations |
+| [`Task_2_Experimentation_and_Uplift_Testing.pdf`](Experimentation%20%26%20Uplift%20Testing%20%28Python%29/Task_2_Experimentation_and_Uplift_Testing.pdf) | PDF export of the completed notebook |
+| [`QVI_data.csv`](Raw%20Dataset/compressed_data.csv.gz) | Input dataset (merged & cleaned output from Task 1) |
 
 ---
 
